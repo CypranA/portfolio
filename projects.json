@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Master Thesis — Data-Driven Financial Inclusion",
+    "url": "https://github.com/CypranA/Master-Thesis-Data-Driven-Financial-Inclusion",
+    "description": "Repository for code and analysis related to my master's thesis on \"Leveraging Big Data Analytics For Enhancing Financial Inclusion in Nigeria and Other Developing Economies. Includes scripts, notebooks, and models for analyzing financial inclusion data, assessing impact, and addressing challenges. University: CBS International Business School",
+    "tech": ["Python","R","SQL","Pandas","Statistics"],
+    "image": "images/placeholder-feature.svg",
+    "featured": true
+  },
+  {
+    "title": "Cyclistic Bike Share Project",
+    "url": "https://github.com/CypranA/Cyclistic-Bike-Share-Project",
+    "description": "Cyclistic Bike-Share Analysis: Utilized Python for data analysis and Power BI for visualization to reveal usage differences between casual riders and members, guiding marketing strategies for conversion.",
+    "tech": ["Python","SQL","Tableau","Data Analysis"],
+    "image": "images/placeholder-thumb.svg",
+    "featured": true
+  }
+]
