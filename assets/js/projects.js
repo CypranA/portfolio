@@ -1,4 +1,4 @@
-// assets/js/projects.js
+// assets/js/projects.json
 // Loads projects.json and renders featured projects and project list into the homepage
 
 (async function(){
